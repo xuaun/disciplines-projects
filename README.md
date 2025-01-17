@@ -5,7 +5,7 @@
  [Versão em português logo abaixo.](#portuguese)
  
  ## Context
- Codes developed for the courses of my **Computer Science Emphasis** at the **University of São Paulo - USP** (*Institute of Mathematical and Computer Sciences - ICMC*) - university level.
+ Codes developed for the courses of my **Computer Science Emphasis** certificate at the **University of São Paulo - USP** (*Institute of Mathematical and Computer Sciences - ICMC*) - university level.
 
 The codes in this repository are some exercises and university work done in some of these courses.
 
@@ -54,7 +54,7 @@ In these codes, the ```C``` programming language was used.
  
  # <p id="portuguese">Códigos que eu fiz em disciplinas da graduação</p>
  ## Contexto
- Códigos desenvolvidos para as disciplinas da minha **Ênfase em Computação** pela **Universidade de São Paulo - USP** (*Instituto de Ciências Matemáticas e de Computação - ICMC*) - de nível universitário.
+ Códigos desenvolvidos para as disciplinas do meu certificado em **Ênfase em Computação** pela **Universidade de São Paulo - USP** (*Instituto de Ciências Matemáticas e de Computação - ICMC*) - de nível universitário.
 
  Os códigos deste repositório são alguns exercícios e trabalhos feitos em algumas dessas disciplinas.
 
