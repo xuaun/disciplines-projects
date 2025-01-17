@@ -28,7 +28,7 @@ Developed in the **ICC1 (old)** discipline, it is a [tic-tac-toe code](./icc1-ol
 ### Battleship Game
 Developed in the **ICC1 (old)** discipline, it is a [Battleship game code](./icc1-old/practice/Work/Naval_Battle_JV_HR_ready.c), with the option of one or two players, in which each player chooses the position of the row and column using the keyboard to play.
 
-I made this game with a friend ```Hingryd Rauen```.
+I made this game with my friend ```Hingryd Rauen```.
 
 <p align="center">
 <img src="./icc1-old/prática/Trabalho/Prints do Programa/menu_1_limpo.png" alt="Game menu screen" title="Battleship - Menu" width="400" />
